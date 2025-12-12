@@ -35,3 +35,12 @@ FoodDeliveryApp.Web/
 ├── wwwroot/ # Static files (images, CSS, JS)
 ├── Data/ # Database context and seed data
 └── Program.cs # Application entry point
+
+
+<img width="1366" height="768" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/d7bb5c30-baf4-4a1a-ad81-fda15b10abbe" />
+<img width="1366" height="768" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/6301e6e9-0f1d-483a-a7cb-929eb390025c" />
+<img width="1366" height="768" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/8fac8e17-6bd6-4fe4-8b02-d112f3e9aaa4" />
+<img width="1366" height="768" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/2e410331-3c5a-4dd2-8f4d-d5603e294706" />
+<img width="1366" height="768" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/7b8ec85c-1009-4c92-b842-d1614077f581" />
+<img width="1366" height="768" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/5ecf450a-ab43-4121-b23e-cd0be30487fe" />
+<img width="1366" height="768" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/4c37200e-d06a-40b4-a4b3-dd40b52306b8" />
